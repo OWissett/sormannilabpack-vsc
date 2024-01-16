@@ -2,7 +2,7 @@
   "name": "sormannilabpack",
   "displayName": "SormanniLabPack",
   "description": "Collection of VSCode extensions for quality of life",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -10,16 +10,14 @@
     "type": "git",
     "url": "https://github.com/OWissett/sormannilabpack-vsc.git"
   },
-  "publisher": "OWissett",
+  "publisher": "owissett",
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "abdullahceylan.vscode-react-component-generator",
     "akamud.vscode-theme-onedark",
     "albert.TabOut",
     "alexcvzz.vscode-sqlite",
-    "amedomary.touchbarvscode",
     "ArianJamasb.protein-viewer",
     "atian25.copy-syntax",
     "bierner.github-markdown-preview",
@@ -29,10 +27,7 @@
     "bierner.markdown-preview-github-styles",
     "bierner.markdown-yaml-preamble",
     "Catppuccin.catppuccin-vsc",
-    "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
-    "cschlosser.doxdocgen",
-    "daohong-emilio.yash",
     "DavidAnson.vscode-markdownlint",
     "DotJoshJohnson.xml",
     "dustypomerleau.rust-syntax",
@@ -46,7 +41,6 @@
     "GitHub.copilot",
     "GitHub.copilot-chat",
     "GitLab.gitlab-workflow",
-    "golang.go",
     "GrapeCity.gc-excelviewer",
     "Gruntfuggly.todo-tree",
     "GulajavaMinistudio.mayukaithemevsc",
@@ -58,7 +52,6 @@
     "jeff-hykin.xd-theme",
     "Jeraldson.vscode-rusty-onedark",
     "josetr.cmake-language-support-vscode",
-    "Kasik96.swift",
     "llvm-vs-code-extensions.vscode-clangd",
     "luggage66.AWK",
     "luis-reyes.synth-wave-remix",
@@ -112,7 +105,6 @@
     "snakemake.snakemake-lang",
     "streetsidesoftware.code-spell-checker",
     "tamasfe.even-better-toml",
-    "TheCodemonkey.synthwave-x-fluoromachine-epic-animations",
     "twxs.cmake",
     "vadimcn.vscode-lldb",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
@@ -124,7 +116,6 @@
     "ymotongpoo.licenser",
     "yzhang.markdown-all-in-one",
     "ZhangYue.rust-mod-generator",
-    "zhuangtongfa.material-theme",
-    "Zignd.html-css-class-completion"
+    "zhuangtongfa.material-theme"
   ]
 }
